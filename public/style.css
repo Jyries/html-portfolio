@@ -1,0 +1,23 @@
+html {
+  background-color: purple;
+  font-family: "Lilita One", sans-serif;
+}
+h1 {
+  color: white;
+  text-align: center;
+  background-color: blueviolet;
+}
+h2 {
+  color: white;
+  text-align: center;
+  background-color: blueviolet;
+}
+
+#cat {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  border: 10px solid plum;
+}

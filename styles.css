@@ -1,0 +1,38 @@
+html {
+  background-color: #ac87c5;
+  color: #ac87c5;
+}
+
+a {
+  color: #392467;
+}
+#heading {
+  background-color: #5d3587;
+  text-align: center;
+  font-family: "DM Serif Display", serif;
+}
+#birthday {
+  text-align: center;
+  font-family: "DM Serif Display", serif;
+}
+
+#movie {
+  text-align: center;
+  font-family: "DM Serif Display", serif;
+}
+
+#meme {
+  text-align: center;
+  font-family: "DM Serif Display", serif;
+}
+
+#rest {
+  text-align: center;
+  color: blueviolet;
+  font-family: "DM Serif Display", serif;
+}
+
+img {
+  border: 6px solid #5d3587;
+  padding: 5px;
+}
